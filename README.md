@@ -1,2 +1,2 @@
-# springboot-graphql-react
-Example of utilization of spring to serve a GraphQL API and a react SPA.
+# Springboot Graphql API with React SPA client
+Spring example to serve a GraphQL API and a react SPA.
